@@ -10,11 +10,13 @@ using System.Windows.Forms;
 
 namespace LTCSDL_IM91_NHOM9
 {
-    public partial class Form1 : Form
+    public partial class fMenu : Form
     {
-        public Form1()
+        public fMenu()
         {
             InitializeComponent();
         }
+
+       
     }
 }

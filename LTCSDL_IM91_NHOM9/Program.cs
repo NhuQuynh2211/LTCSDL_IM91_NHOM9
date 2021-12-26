@@ -16,7 +16,7 @@ namespace LTCSDL_IM91_NHOM9
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form1());
+            Application.Run(new fLogin());
         }
     }
 }
