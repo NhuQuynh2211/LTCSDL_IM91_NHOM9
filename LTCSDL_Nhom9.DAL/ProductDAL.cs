@@ -37,7 +37,7 @@ namespace LTCSDL_Nhom9.DAL
         public List<ProductDTO> GetListProduct()
         {
             List<ProductDTO> list = new List<ProductDTO>();
-            string query = "select * FROM dbo.Products";
+            string query = "select ProductID, ProductName, Price, IDCategory From Products";
             DataTable data = KetNoiDatabase.Instance.ExcuteQuery(query);
 
             foreach (DataRow item in data.Rows)

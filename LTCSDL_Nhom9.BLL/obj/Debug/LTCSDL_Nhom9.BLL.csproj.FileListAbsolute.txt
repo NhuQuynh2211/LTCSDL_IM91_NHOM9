@@ -1,0 +1,36 @@
+C:\ĐỒ ÁN LTCSDL - 30.12\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.BLL\bin\Debug\LTCSDL_Nhom9.BLL.dll
+C:\ĐỒ ÁN LTCSDL - 30.12\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.BLL\bin\Debug\LTCSDL_Nhom9.BLL.pdb
+C:\ĐỒ ÁN LTCSDL - 30.12\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.BLL\bin\Debug\LTCSDL_Nhom9.DAL.dll
+C:\ĐỒ ÁN LTCSDL - 30.12\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.BLL\bin\Debug\LTCSDL_Nhom9.DTO.dll
+C:\ĐỒ ÁN LTCSDL - 30.12\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.BLL\bin\Debug\LTCSDL_Nhom9.DAL.pdb
+C:\ĐỒ ÁN LTCSDL - 30.12\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.BLL\bin\Debug\LTCSDL_Nhom9.DTO.pdb
+C:\ĐỒ ÁN LTCSDL - 30.12\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.BLL\obj\Debug\LTCSDL_Nhom9.BLL.csproj.AssemblyReference.cache
+C:\ĐỒ ÁN LTCSDL - 30.12\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.BLL\obj\Debug\LTCSDL_Nhom9.BLL.csproj.CoreCompileInputs.cache
+C:\ĐỒ ÁN LTCSDL - 30.12\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.BLL\obj\Debug\LTCSDL_Nhom9.BLL.csproj.CopyComplete
+C:\ĐỒ ÁN LTCSDL - 30.12\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.BLL\obj\Debug\LTCSDL_Nhom9.BLL.dll
+C:\ĐỒ ÁN LTCSDL - 30.12\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.BLL\obj\Debug\LTCSDL_Nhom9.BLL.pdb
+C:\ĐỒ ÁN LTCSDL - 30.12\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.BLL\bin\Debug\LTCSDL_Nhom9.DAL.dll.config
+E:\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.BLL\bin\Debug\LTCSDL_Nhom9.BLL.dll
+E:\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.BLL\bin\Debug\LTCSDL_Nhom9.BLL.pdb
+E:\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.BLL\bin\Debug\LTCSDL_Nhom9.DAL.dll
+E:\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.BLL\bin\Debug\LTCSDL_Nhom9.DTO.dll
+E:\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.BLL\bin\Debug\LTCSDL_Nhom9.DAL.pdb
+E:\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.BLL\bin\Debug\LTCSDL_Nhom9.DAL.dll.config
+E:\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.BLL\bin\Debug\LTCSDL_Nhom9.DTO.pdb
+E:\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.BLL\obj\Debug\LTCSDL_Nhom9.BLL.csproj.AssemblyReference.cache
+E:\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.BLL\obj\Debug\LTCSDL_Nhom9.BLL.csproj.CoreCompileInputs.cache
+E:\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.BLL\obj\Debug\LTCSDL_Nhom9.BLL.csproj.CopyComplete
+E:\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.BLL\obj\Debug\LTCSDL_Nhom9.BLL.dll
+E:\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.BLL\obj\Debug\LTCSDL_Nhom9.BLL.pdb
+C:\Users\MSII\Downloads\Cafe\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.BLL\bin\Debug\LTCSDL_Nhom9.BLL.dll
+C:\Users\MSII\Downloads\Cafe\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.BLL\bin\Debug\LTCSDL_Nhom9.BLL.pdb
+C:\Users\MSII\Downloads\Cafe\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.BLL\bin\Debug\LTCSDL_Nhom9.DAL.dll
+C:\Users\MSII\Downloads\Cafe\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.BLL\bin\Debug\LTCSDL_Nhom9.DTO.dll
+C:\Users\MSII\Downloads\Cafe\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.BLL\bin\Debug\LTCSDL_Nhom9.DAL.pdb
+C:\Users\MSII\Downloads\Cafe\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.BLL\bin\Debug\LTCSDL_Nhom9.DAL.dll.config
+C:\Users\MSII\Downloads\Cafe\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.BLL\bin\Debug\LTCSDL_Nhom9.DTO.pdb
+C:\Users\MSII\Downloads\Cafe\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.BLL\obj\Debug\LTCSDL_Nhom9.BLL.csproj.AssemblyReference.cache
+C:\Users\MSII\Downloads\Cafe\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.BLL\obj\Debug\LTCSDL_Nhom9.BLL.csproj.CoreCompileInputs.cache
+C:\Users\MSII\Downloads\Cafe\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.BLL\obj\Debug\LTCSDL_Nhom9.BLL.csproj.CopyComplete
+C:\Users\MSII\Downloads\Cafe\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.BLL\obj\Debug\LTCSDL_Nhom9.BLL.dll
+C:\Users\MSII\Downloads\Cafe\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.BLL\obj\Debug\LTCSDL_Nhom9.BLL.pdb

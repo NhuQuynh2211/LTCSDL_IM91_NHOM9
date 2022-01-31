@@ -24,12 +24,12 @@ namespace LTCSDL_Nhom9.DAL
         {
             DataTable data = KetNoiDatabase.Instance.ExcuteQuery("select * from dbo.Bill where IDTable = " + id + "AND status = 0");
 
-            if (data.Rows.Count > 0)
+            if (data.Rows.Count > 0) // số trường trả về lớn hơn không
             {
                 BillDTO bill = new BillDTO(data.Rows[0]);
                 return bill.ID;
             }
-            return -1;
+            return -1; // không có
         }
 
         public void InsertBill(int id)

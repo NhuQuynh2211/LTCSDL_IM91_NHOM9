@@ -1,0 +1,12 @@
+C:\ĐỒ ÁN LTCSDL - 30.12\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.DTO\bin\Debug\LTCSDL_Nhom9.DTO.dll
+C:\ĐỒ ÁN LTCSDL - 30.12\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.DTO\bin\Debug\LTCSDL_Nhom9.DTO.pdb
+C:\ĐỒ ÁN LTCSDL - 30.12\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.DTO\obj\Debug\LTCSDL_Nhom9.DTO.csproj.AssemblyReference.cache
+C:\ĐỒ ÁN LTCSDL - 30.12\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.DTO\obj\Debug\LTCSDL_Nhom9.DTO.csproj.CoreCompileInputs.cache
+C:\ĐỒ ÁN LTCSDL - 30.12\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.DTO\obj\Debug\LTCSDL_Nhom9.DTO.dll
+C:\ĐỒ ÁN LTCSDL - 30.12\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.DTO\obj\Debug\LTCSDL_Nhom9.DTO.pdb
+C:\Users\MSII\Downloads\Cafe\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.DTO\bin\Debug\LTCSDL_Nhom9.DTO.dll
+C:\Users\MSII\Downloads\Cafe\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.DTO\bin\Debug\LTCSDL_Nhom9.DTO.pdb
+C:\Users\MSII\Downloads\Cafe\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.DTO\obj\Debug\LTCSDL_Nhom9.DTO.csproj.AssemblyReference.cache
+C:\Users\MSII\Downloads\Cafe\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.DTO\obj\Debug\LTCSDL_Nhom9.DTO.csproj.CoreCompileInputs.cache
+C:\Users\MSII\Downloads\Cafe\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.DTO\obj\Debug\LTCSDL_Nhom9.DTO.dll
+C:\Users\MSII\Downloads\Cafe\LTCSDL_IM91_NHOM9\LTCSDL_Nhom9.DTO\obj\Debug\LTCSDL_Nhom9.DTO.pdb
